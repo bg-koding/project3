@@ -1,0 +1,10 @@
+<?php  
+
+
+
+header('location:public');
+
+
+
+
+?>
